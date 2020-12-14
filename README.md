@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Amira BEN HASSINE</h1>
+<h3 align="left">I am aweb developer </h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
@@ -182,7 +182,5 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/amira-ben-hassine-70737a14b/ "Amira BEN HASSINe"
 
